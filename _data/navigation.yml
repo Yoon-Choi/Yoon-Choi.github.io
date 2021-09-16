@@ -1,9 +1,15 @@
 # main links
 main:
-  - title: "Yoon Choi's blog"
-    url: https://yoon-choi.github.io/
+    
+  - title: "category"
+    url: /categories/
+    
+  - title: "Posts by Year"
+    url: /year-archive/
+    
   - title: "About"
     url: /about/
+    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
