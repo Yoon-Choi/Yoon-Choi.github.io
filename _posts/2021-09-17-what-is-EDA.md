@@ -21,12 +21,13 @@ In this post, i am gonna talk about what is EDA  =  Exploratory Data Analysis
 
 ## 1. what is EDA?
 Exploratory Data Analysis (EDA) is a method of analyzing data with visualization , and figuring out the characteristic of variables within your data
+
 when you are on any projects using deep learning or machine learning model, the first thing you need to do is EDA 
 
 ## 2. why EDA is needed?
 once business is started, data is getting more and more be stacked and finally have tons of millions of meta data within database(generally the form of csv) regardless of their practical usage 
 
-In this situastion, we obiously cannot see entire amount of data. 
-necessarily need to get only proper one for the reason that we want to make strategic business decisions by "exploring" the data 
+In this situastion, we obiously cannot look in entire amount. 
+just need to get only proper one for the reason that we want to make strategic business decisions by "exploring" the data 
 
 
