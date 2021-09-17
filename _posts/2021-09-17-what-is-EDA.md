@@ -16,7 +16,7 @@ In this post, I am gonna talk about EDA
 ## contents 
 1. What is EDA
 2. Why EDA is needed?
-3. EDA?
+3. how to perform EDA
 4. Some Common Plots used for EDA
 
 ## 1. What is EDA?
