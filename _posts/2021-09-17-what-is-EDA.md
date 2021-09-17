@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  " how to make github blog in 3min"
+title:  " What is EDA?"
 permalink: /categories/what-is/
 author_profile: true
 
